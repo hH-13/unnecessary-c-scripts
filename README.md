@@ -3,7 +3,7 @@ Some wholly unnecessary scripts, written in the C language
 
 ### Including
 
-- ![A script that prints the Indian map](map_of_india/map.c)
+- [A script that prints the Indian map](map_of_india/map.c)
 
     ![result preview](map_of_india/map.png)
 
