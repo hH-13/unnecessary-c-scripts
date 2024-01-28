@@ -3,9 +3,13 @@ Some wholly unnecessary scripts, written in the C language
 
 ### Including
 
-- [A script that prints the Indian map](map_of_india/map.c)
+- [A script that prints the Indian map](graphic_map/map.c)
 
-    ![result preview](map_of_india/map.png)
+    ![result preview](graphic_map/map.png)
+
+- [Interactive bubblesort implementation](bubblesort/bubblesort.c)
+
+    ![result preview](bubblesort/bubblesort.PNG)
 
 - [A script highlighting the difference between the `break` and `continue` statements](breakcontdiff/breakcontdiff.c)
 
