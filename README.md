@@ -5,7 +5,7 @@ Some wholly unnecessary scripts, written in the C language
 
 - [A script that prints the Indian map](graphic_map/map.c)
 
-    ![result preview](graphic_map/map.png)
+    ![result preview](graphic_map/ind1.png)
 
 - [Interactive bubblesort implementation](bubblesort/bubblesort.c)
 
