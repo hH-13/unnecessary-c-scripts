@@ -10,9 +10,21 @@ Some wholly unnecessary scripts, written in the C language
 
     ![result preview](bubblesort/bubblesort.PNG)
 
-- [A script for multiplying matrices](matrix_multiplication/matrixmult.c)
+- [Interactive linear search implementation](linearsearch/linearsearch.c)
+
+    ![result preview](linearsearch/linearsearch.PNG)
+
+- [A script for transposing matrices](transposition/transpose.c)
+
+    ![result preview](transposition/transpose.png)
+    
+- [A script for multiplying two matrices](matrix_multiplication/matrixmult.c)
 
     ![result preview](matrix_multiplication/matrixmult.PNG)
+
+- [A script to explore basic string manipulations](string_basics/stringfns.c)
+
+    ![result preview](string_basics/stringfns1.png)
 
 - [A script highlighting the difference between the `break` and `continue` statements](breakcontdiff/breakcontdiff.c)
 
