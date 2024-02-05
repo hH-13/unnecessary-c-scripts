@@ -22,7 +22,11 @@ Some wholly unnecessary scripts, written in the C language
 
     ![result preview](matrix_multiplication/matrixmult.PNG)
 
-- [A script to explore basic string manipulations](string_basics/stringfns.c)
+- [A script to create pyramids](pyramid/pyramid.c)
+
+    ![result preview](pyramid/pyramid.png)
+  
+  - [A script to explore basic string manipulations](string_basics/stringfns.c)
 
     ![result preview](string_basics/stringfns1.png)
 
