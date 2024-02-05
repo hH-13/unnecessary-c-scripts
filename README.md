@@ -26,7 +26,7 @@ Some wholly unnecessary scripts, written in the C language
 
     ![result preview](pyramid/pyramid.png)
   
-  - [A script to explore basic string manipulations](string_basics/stringfns.c)
+- [A script to explore basic string manipulations](string_basics/stringfns.c)
 
     ![result preview](string_basics/stringfns1.png)
 
