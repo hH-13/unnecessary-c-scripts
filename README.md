@@ -25,7 +25,11 @@ Some wholly unnecessary scripts, written in the C language
 - [A script to create pyramids](pyramid/pyramid.c)
 
     ![result preview](pyramid/pyramid.png)
-  
+
+- [A naive algorithm to print the first n fibonacci numbers](fibonacci/fibonacci.c)
+
+    ![result preview](fibonacci/fibonaccismol.png)  
+
 - [A script to explore basic string manipulations](string_basics/stringfns.c)
 
     ![result preview](string_basics/stringfns1.png)
