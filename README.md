@@ -26,6 +26,12 @@ Some wholly unnecessary scripts, written in the C language
 
     ![result preview](pyramid/pyramid.png)
 
+- [A couple of simple factorial algorithms (no caching/memoisation)](./factorial/)
+    - [Using a simple `for` loop](./factorial/nfactorial-for.c)
+    - [Using recursion](./factorial/factorial.c)
+    
+        ![result preview](factorial/factorial.png)
+
 - [A naive algorithm to print the first n fibonacci numbers](fibonacci/fibonacci.c)
 
     ![result preview](fibonacci/fibonaccismol.png)  
