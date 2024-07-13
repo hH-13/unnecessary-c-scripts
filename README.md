@@ -44,6 +44,10 @@ Some wholly unnecessary scripts, written in the C language
 
     ![result preview](./palindrome/palindromesmol.png)
 
+- [A scipt to calculate the sum of the digits of a number](./sumofdigits/sumofdigits.c)
+
+    ![result preview](./sumofdigits/sumofdigitssmol.png)
+
 - [A script highlighting the difference between the `break` and `continue` statements](breakcontdiff/breakcontdiff.c)
 
     ![result preview](breakcontdiff/breakcontdiff.png)
