@@ -40,6 +40,10 @@ Some wholly unnecessary scripts, written in the C language
 
     ![result preview](string_basics/stringfns1.png)
 
+- [A script to check if a string is a palindrome (case sensitive)](./palindrome/palindrome.c)
+
+    ![result preview](./palindrome/palindromesmol.png)
+
 - [A script highlighting the difference between the `break` and `continue` statements](breakcontdiff/breakcontdiff.c)
 
     ![result preview](breakcontdiff/breakcontdiff.png)
