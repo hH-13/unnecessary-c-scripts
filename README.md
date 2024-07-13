@@ -54,10 +54,16 @@ Some wholly unnecessary scripts, written in the C language
 
     ![result preview](./palindrome/palindromesmol.png)
 
+- A few scripts to calculate the sums of various things:
 
-- [A scipt to calculate the sum of the digits of a number](./sumofdigits/sumofdigits.c)
+    - [A script to calculate the sum of the digits of a number](./sumofdigits/sumofdigits.c)
 
-    ![result preview](./sumofdigits/sumofdigitssmol.png)
+        ![result preview](./sumofdigits/sumofdigitssmol.png)
+    
+    - [A script to add a couple of float type numbers](./misc/floataddition.c)
+
+    - [A script to add any 'n' numbers using a `do while` loop](./misc/sumofanyn-dowhile.c)
+
 
 
 - [A script demonstrating the difference between the `break` and `continue` statements](breakcontdiff/breakcontdiff.c)
@@ -74,3 +80,6 @@ Some wholly unnecessary scripts, written in the C language
 
     ![result preview](./switch/switchsmol.png)
 
+- [A script to convert a Fahrenheit temperature to Celsius](./misc/Fahrenheit-Celsius.c)
+
+- [A script to check if a number is even or odd](./misc/even-odd.c)
